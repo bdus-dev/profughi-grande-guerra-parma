@@ -9,11 +9,20 @@ h4{
 }
 h1{
     font-weight: 500;
-    font-size: 5rem;
+    font-size: 4rem;
+    font-weight: 800;
+
+    @media (min-width: 576px) {
+        font-size: 5rem;
+    }
+    
 }
 h2{
     font-weight: 500;
-    font-size: 4rem;
+    font-size: 2rem;
+    @media (min-width: 576px) {
+        font-size: 4rem;
+    }
 }
 .right{
     background-color: #2f3542;
@@ -31,7 +40,8 @@ h2{
     color: #ffffff;
 
     strong{
-        color: #FFB900;
+        // color: #FFB900;
+        color: #F5D14F;
     }
 
     img{
@@ -44,7 +54,6 @@ h2{
 }
 
 ul.menu{
-    font-size: 1rem;
     list-style: none;
     margin: 0;
     padding:0;
