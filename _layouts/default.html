@@ -30,7 +30,7 @@
                 {% for item in site.data.menu %}
                 {% assign full_url = item.url|prepend: "/"|append: ".html" %}
                 <li class="{% if page.url == full_url %}active{% endif %}">
-                  <a class="menu-item" href="{{ item.url }}" alt="{{ item.title }}" title="{{ item.title }}">
+                  <a class="menu-item" href="{{ item.url | relative_url }}" alt="{{ item.title }}" title="{{ item.title }}">
                     {{ item.title }}
                   </a>
                 </li>
