@@ -4,6 +4,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Il fronte italiano nella Grande Guerra: " />
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
@@ -27,8 +28,8 @@
 
               <ul class="menu">
                 {% for item in site.data.menu %}
-                {% assign url = page.url|replace: ".html", "" %}
-                <li class="{% if url == item.url %}active{% endif %}">
+                {% assign full_url = item.url|prepend: "/"|append: ".html" %}
+                <li class="{% if page.url == full_url %}active{% endif %}">
                   <a class="menu-item" href="{{ item.url }}" alt="{{ item.title }}" title="{{ item.title }}">
                     {{ item.title }}
                   </a>
