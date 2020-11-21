@@ -1,0 +1,8 @@
+title: Il fronte italiano nella Grande Guerra
+description: Mostra virtuale su Il fronte italiano nella Grande Guerra
+logo: paths-logo.png
+
+
+defaults:
+  - values:
+      layout: default
