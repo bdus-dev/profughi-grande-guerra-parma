@@ -13,6 +13,5 @@ La frequenza scolastica dei bambini profughi era, del resto, ostacolata da «gra
 
 Fu anche per questo che essi, inizialmente inseriti nelle scuole comunali, in un secondo momento vennero concentrati in scuole a loro dedicate, «per ragioni patriottiche e didattiche, giacché la maggior parte dei bambini parlano e capiscono poco l'italiano».
 
-![Telegramma del prefetto di Parma al sindaco di 
-San Lazzaro Parmense – 8 novembre 1916]({{ "images/panello-11b.jpg" | relative_url }})  
-*Telegramma del prefetto di Parma al sindaco di San Lazzaro Parmense – 8 novembre 1916*
+![Telegramma del prefetto di Parma al sindaco di San Lazzaro Parmense – 8 novembre 1916 (Archivio storico comunale di Parma)]({{ "images/panello-11b.jpg" | relative_url }})  
+*Telegramma del prefetto di Parma al sindaco di San Lazzaro Parmense – 8 novembre 1916 (Archivio storico comunale di Parma)*

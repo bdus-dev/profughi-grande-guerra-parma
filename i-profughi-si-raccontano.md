@@ -20,5 +20,5 @@ Il professor Mastella chiudeva il suo pezzo rivolgendosi direttamente agli altri
 
 “La parola del profugo” continuò fino alla fine della guerra a commentare questioni politiche, ma anche a trattare argomenti quotidiani, **inserendosi di fatto nella vita culturale parmense**.
 
-![Immagine su profughi che scrivono sulla stampa a cura di ABC]({{ "images/panello-13.jpg" | relative_url }})  
-*Immagine su profughi che scrivono sulla stampa a cura di ABC*
+![Illustrazione di Pietro Aimi (Associazione L’Abc)]({{ "images/panello-14.jpg" | relative_url }})  
+*Illustrazione di Pietro Aimi (Associazione L’Abc)*

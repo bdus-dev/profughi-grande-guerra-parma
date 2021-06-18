@@ -9,8 +9,8 @@ La questione indubbiamente più problematica nel rapporto tra profughi e societ�
 Nella colonia di Villa Tonarelli a San Lazzaro Parmense i profughi vennero utilizzati per eseguire lavori di manutenzione e imbiancatura dello stabile, come cucinieri o per realizzare lavori sulle strade pubbliche, mentre i più istruiti furono impiegati nelle segreterie del Comitato e del Comune. Quasi completamente composto da profughe era anche il personale di servizio della **Cucina di famiglia** istituita su iniziativa del Comitato di provvedimento nel capoluogo, in alcuni locali del Regio Istituto di belle arti, per offrire pasti caldi agli sfollati di passaggio in città. 
 
 
-![Immagine su profughi a lavoro nelle colonie a cura di ABC]({{ "images/panello-10.jpg" | relative_url }})
-*Immagine su profughi a lavoro nelle colonie a cura di ABCs*
+![Profughe di Castello Tesino, cuoche all’interno della colonia di Cortile San Martino (Parma). Originale conservato presso la Biblioteca di Castel Tesino.]({{ "images/profughe-cuoche.jpg" | relative_url }})
+*Profughe di Castello Tesino, cuoche all’interno della colonia di Cortile San Martino (Parma). Originale conservato presso la Biblioteca di Castel Tesino.*
 
 
 **Richieste di manodopera specializzata da reclutarsi tra i profughi** provenivano, del resto, dallo stesso Ministero dell'Interno: particolarmente richiesti risultavano **boscaioli**, **carbonai**, **minatori**, **falegnami** e **meccanici**.

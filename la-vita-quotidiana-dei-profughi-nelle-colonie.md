@@ -9,8 +9,8 @@ L'esperienza del profugato non fu vissuta allo stesso modo dai vari gruppi di es
 Per gli **sfollati appartenenti alle classi popolari** l'esperienza del profugato si rivelò, invece, molto più dura. Dopo gli slanci patriottici della prima accoglienza, la prospettiva di una lunga permanenza nei territori ospitanti e, soprattutto, il rapido moltiplicarsi dei nuovi arrivi nelle settimane successive alla rotta di Caporetto contribuirono a **complicare i rapporti tra le comunità indigene e i gruppi di rifugiati** delle classi meno abbienti. 
 
 
-![Immagine sulla condizione dei profughi nelle colonie a cura di ABC]({{ "images/panello-7.jpg" | relative_url }})
-*Immagine sulla condizione dei profughi nelle colonie a cura di ABC*
+![Illustrazione di Chiara Morselli (Associazione L’Abc)]({{ "images/panello-7.jpg" | relative_url }})
+*Illustrazione di Chiara Morselli (Associazione L’Abc)*
 
 Questi ultimi dovettero fare i conti con i **problemi dell'approvvigionamento e della vita in comune nelle colonie**. Nella maggior parte dei casi si trattava, infatti, di locali piccoli e angusti, posti al pianterreno o addirittura interrati, nei quali i profughi vivevano in promiscuità. La maggior parte degli alloggi era poi priva di latrine e di acqua corrente, con comprensibili **problemi di carattere igienico-sanitario**.
 

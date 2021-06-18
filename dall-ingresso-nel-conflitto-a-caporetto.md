@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## All'ingresso nel conflitto a Caporetto
+## Dall’ingresso nel conflitto a Caporetto
 
 La **Prima Guerra Mondiale** coinvolse ogni aspetto della vita civile, militare e politica degli Stati che da essa furono devastati.
 
@@ -10,8 +10,8 @@ Dopo aspri dibattiti tra **interventisti e neutralisti**, l'Italia prese parte a
 
 Dopo la dichiarazione di guerra all'Austria, venne creato un fronte che seguiva il corso del fiume Isonzo, lungo le frontiere alpine e nella regione del Carso.
 
-![Mappa del fronte italiano con didascalia]({{ "images/panello-5.jpg" | relative_url }})
-*Mappa del fronte italiano con didascalia*
+![Fronte italiano 1915-1918]({{ "images/mappa-del-fronte.jpg" | relative_url }})
+*Fronte italiano 1915-1918*
 
 
 Nel 1915 il Regio Esercito tentò più volte di sfondare le linee nemiche, riportando numerose perdite a fronte di un modesto avanzamento territoriale. L'anno successivo le armate austriache risposero con un contrattacco, la **Strafexpetion**, “spedizione punitiva” contro l'ex-alleato traditore.

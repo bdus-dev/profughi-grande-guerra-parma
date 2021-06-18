@@ -11,5 +11,5 @@ Durante il profugato le donne assunsero, tuttavia, un **inedito ruolo decisional
 Impiegate nei lavori agricoli, come domestiche o in **laboratori per la confezione di indumenti civili e militari**, esse dettero un **contributo tutt'altro che trascurabile all'economia di guerra** e al sistema produttivo delle località ospitanti, benché il loro collocamento al lavoro venisse spesso percepito come una **forma di controllo sociale**, atta a tenerle lontane dall'ozio e dalla prostituzione.
 
 
-![Cartolina pro profughi – marzo 1918]({{ "images/panello-11.jpg" | relative_url }})  
-*Cartolina pro profughi – marzo 1918*
+![Cartolina pro profughi – marzo 1918 (Archivio privato Cattabiani)]({{ "images/panello-11.jpg" | relative_url }})  
+*Cartolina pro profughi – marzo 1918 (Archivio privato Cattabiani)*

@@ -14,7 +14,7 @@ Questo cambio di tono non era solo conseguenza del maggior numero di profughi gi
 
 A rendere ancora più plastica la disfatta, si aggiungeva la descrizione delle schiere di profughi stanchi, con i vestiti e il morale lacerati. L'**idealizzazione di queste genti**, esaltate nella fierezza e nel sacrificio eroico per la Patria, e l'invito ai cittadini a prestare loro ogni possibile forma di assistenza avevano lo scopo di **serrare le fila attorno a un obiettivo comune**, come evidenziava un manifesto pubblicato sulla stampa locale in quei giorni:
 
-![Gazzetta di Parma – 15 novembre 1917]({{ "images/panello-12.jpg" | relative_url }})  
+![Gazzetta di Parma – 15 novembre 1917]({{ "images/gazzetta.jpg" | relative_url }})  
 *Gazzetta di Parma – 15 novembre 1917*
 
 Il forte impatto di Caporetto sul racconto pubblico dei profughi portò, inoltre, l'attenzione mediatica a privilegiare gli sfollati provenienti dal Friuli e, in misura minore, dal Veneto, mentre i **trentini**, che prima di allora avevano rappresentato un'importante fetta del profugato, **subirono in questo senso una progressiva emarginazione**.

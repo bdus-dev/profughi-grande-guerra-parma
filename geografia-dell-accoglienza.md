@@ -2,15 +2,15 @@
 layout: default
 ---
 
-## L'organizzazione sul territorio: la distribuzione dei profughi nelle colonie
+## La geografia dell’accoglienza: il sistema delle colonie
 
 Nel parmense, in linea con la scelta adottata a livello nazionale, si decise di raccogliere i profughi in «insediamenti e raggruppamenti collettivi», le cosiddette **colonie**. Gli esuli vennero distribuiti sul territorio provinciale in base alle località di provenienza, così da creare **comunità** il più possibile **omogenee** al proprio interno.
 
 Una delle prime colonie a costituirsi nella provincia fu quella di **San Lazzaro Parmense**, dove già nel **gennaio 1916** l'amministrazione comunale affittò alcune camere all'interno della villa del monsignor Tonarelli per ospitare inizialmente 151 persone, di cui un terzo bambini, provenienti da Castione di Mori (Trento). In **maggio**, a seguito della **Strafexpetion**, altri 300 profughi giunsero dalle zone invase e, nelle settimane successive alle sesta battaglia dell'Isonzo (6-17 agosto), un altro centinaio di sfollati, in un primo momento raccolti a Bologna, arrivò da Gorizia. 
 
 
-![Immagine di profughi in fuga dai luoghi di guerra a cura di ABC]({{ "images/panello-5.jpg" | relative_url }})
-*Immagine di profughi in fuga dai luoghi di guerra a cura di ABC*
+![“Profughi in fuga”, illustrazione realizzata da Lorenzo Boccucci (Associazione L’Abc)]({{ "images/panello-5.jpg" | relative_url }})
+*“Profughi in fuga”, illustrazione realizzata da Lorenzo Boccucci (Associazione L’Abc)*
 
 
 

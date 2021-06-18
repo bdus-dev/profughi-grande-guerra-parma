@@ -2,12 +2,37 @@
 layout: default
 ---
 
-## **Profugo**
+## Mostra “I profughi della Grande guerra nel parmense”
 
-<blockquote class="blockquote">
-  persona costretta ad abbandonare la sua terra, il suo paese, la sua 
-  patria in seguito a eventi bellici, a persecuzioni politiche o razziali, 
-  oppure a cataclismi come eruzioni vulcaniche, terremoti, alluvioni, ecc.
-  <footer class="blockquote-footer"><cite title="Source Title">Dizionario Treccani</cite></footer>
-</blockquote>
-Tra gli esempi citati dal dizionario vi sono anche i veneti nella **Prima Guerra Mondiale**.
+
+Progetto a cura dell’Istituto storico della Resistenza e dell’età contemporanea di Parma.
+
+![Istituto storico della Resistenza e dell’età contemporanea di Parma]({{ "images/logo/logo-isrec.jpg" | relative_url }})
+
+
+Testi e ricerca scientifica: Alessandra Mastrodonato, Carlo Ugolotti e Domenico Vitale.
+
+Illustrazioni: 
+- Pietro Aimi, 
+- Lorenzo Boccucci, 
+- Mattia Camisa, 
+- Caterina De Nisco, 
+- Chiara Morselli (Associazione culturale “L’Abc”)
+
+
+Con il contributo del Comune di Parma e della Fondazione Monte Parma.
+
+![Comune di Parma]({{ "images/logo/logo-comune-parma.jpg" | relative_url }})
+![Fondazione Monte Parma]({{ "images/logo/logo-fondazione-monteparma.jpg" | relative_url }})
+
+Si ringrazia il dott. Andrea Cattabiani per la consulenza e il materiale iconografico fornito
+
+La seguente mostra anticipa l’uscita del volume 
+“I profughi della Grande guerra nel parmense” di 
+Alessandra Mastrodonato e Domenico Vitale (Mup editore), 
+che sarà disponibile a partire dall’autunno 2021.
+
+Per informazioni o richieste scrivere a 
+[direzione@istitutostoricoparma.it](mailto:direzione@istitutostoricoparma.it)
+
+[istitutostoricoparma.it](http://www.istitutostoricoparma.it) 

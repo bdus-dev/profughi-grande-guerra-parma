@@ -1,15 +1,17 @@
-- title: Introduzione
+- title: Crediti
   url: ./
-- title: All’ingresso nel conflitto a Caporetto
-  url: all-ingresso-nel-conflitto-a-caporetto
+- title: Introduzione
+  url: introduzione
+- title: Dall’ingresso nel conflitto a Caporetto
+  url: dall-ingresso-nel-conflitto-a-caporetto
 - title: Chi era considerato “profugo di guerra” durante il Primo conflitto mondiale?
   url: chi-era-considerato-profugo-di-guerra
 - title: Il profugato come fenomeno di massa
   url: il-profugato-come-fenomeno-di-massa
 - title: Famiglie divise
   url: famiglie-divise
-- title: L'organizzazione sul territorio
-  url: organizzazione-sul-territorio
+- title: "La geografia dell’accoglienza: il sistema delle colonie"
+  url: geografia-dell-accoglienza
 - title: Il problema degli alloggi
   url: il-problema-degli-alloggi
 - title: La vita quotidiana dei profughi nelle colonie
@@ -32,3 +34,5 @@
   url: i-profughi-si-raccontano
 - title: Il racconto del capitano Matiuzzi
   url: il-racconto-del-capitano-matiuzzi
+- title: Il difficile ritorno
+  url: il-difficile-ritorno
