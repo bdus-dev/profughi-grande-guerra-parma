@@ -12,12 +12,12 @@ Progetto a cura dell’Istituto storico della Resistenza e dell’età contempor
 
 Testi e ricerca scientifica: Alessandra Mastrodonato, Carlo Ugolotti e Domenico Vitale.
 
-Illustrazioni: 
+Illustrazioni (a cura dell’Associazione culturale “L’Abc”): 
 - Pietro Aimi, 
 - Lorenzo Boccucci, 
 - Mattia Camisa, 
 - Caterina De Nisco, 
-- Chiara Morselli (Associazione culturale “L’Abc”)
+- Chiara Morselli
 
 
 Con il contributo del Comune di Parma e della Fondazione Monte Parma.

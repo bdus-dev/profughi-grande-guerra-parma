@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Chi era considerato profugo di guerra
+## Chi era considerato “profugo di guerra” durante il Primo conflitto mondiale?
 
 
 Nelle fasi iniziali del conflitto, la categoria di “profughi di guerra”, almeno dal punto di vista della percezione pubblica e della narrazione veicolata dalla stampa, appariva **tutt'altro che chiara**: essa comprendeva, infatti, indistintamente sfollati, internati, fuoriusciti, irredenti, ecc., ingenerando non poche incertezze ai fini della gestione dell'assistenza, oltre che polemiche e fraintendimenti tra le stesse popolazioni ospitanti. Non a caso, un articolo pubblicato sulla “Gazzetta di Parma” il 30 settembre 1916, nell'intento di rendere più intellegibile il fenomeno del profugato, ammoniva espressamente che «sarebbe un grave errore e un'imperdonabile ingiustizia il considerare i profughi come vanno considerati i prigionieri».
