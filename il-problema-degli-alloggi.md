@@ -8,8 +8,8 @@ Dopo la rotta di Caporetto, a seguito della notizia dell'arrivo di circa un migl
 
 A **San Lazzaro Parmense**, ad esempio, la colonia istituita dall'amministrazione comunale si componeva di un solaio, una cucina nel sotterraneo e una camera al pianterreno nella **villa di monsignor Tonarelli**. Gli ospiti potevano lavorare durante il loro soggiorno nella colonia, ma dovevano versare **una percentuale dei guadagni per il mantenimento della struttura ospitante**.
 
-![Cartolina pro profughi stampata dal Comitato parmense di Preparazione civile (Archivio privato Cattabiani)]({{ "images/panello-6.jpg" | relative_url }})
-*Cartolina pro profughi stampata dal Comitato parmense di Preparazione civile – maggio 1918 (Archivio privato Cattabiani)*
+![Cartolina pro profughi stampata dal Comitato parmense di Preparazione civile (Archivio storico Dott. Andrea Cattabiani, Parma)]({{ "images/panello-6.jpg" | relative_url }})
+*Cartolina pro profughi stampata dal Comitato parmense di Preparazione civile – maggio 1918 (Archivio storico Dott. Andrea Cattabiani, Parma)*
 
 
 Nonostante fossero gli stessi sindaci a monitorare il funzionamento delle colonie, spesso queste versavano in condizioni non ottimali: Villa Tonarelli presentava, ad esempio, **problemi di sovraffollamento**, tanto che il primo cittadino chiese al prefetto di requisire una palazzina appartenente alla sorella del parroco locale, dal momento che la proprietaria per darla in locazione ai profughi aveva stabilito un fitto eccessivamente esoso.
