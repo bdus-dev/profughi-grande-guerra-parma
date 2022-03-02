@@ -25,8 +25,13 @@
             <h1>
               I profughi della Grande guerra nel parmense
             </h1>
+            <div class="text-center d-md-none">
+              <button class="btn btn-light text-center" id="toggleMenu">
+                <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30" role="img" focusable="false"><title>Menu</title><path stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M4 7h22M4 15h22M4 23h22"></path></svg>
+              </button>
+            </div>
             
-            <ul class="menu">
+            <ul class="menu d-none d-md-block" id="menu">
               {% for item in site.data.menu %}
               {% assign full_url = item.url|prepend: "/"|append: ".html" %}
               <li class="{% if page.url == full_url %}active{% endif %}">
@@ -54,7 +59,7 @@
                   {% assign currIndex = forloop.index0 %}
                 
                   <div class="row">
-                    <div class="col-4">
+                    <div class="col-md-4">
                       {% if prevIndex > -1 %}
                       <a class="menu-item" href="{{ site.data.menu[prevIndex].url | relative_url }}" alt="{{ site.data.menu[prevIndex].title }}" title="{{ site.data.menu[prevIndex].title }}">
                         &lt;
@@ -62,10 +67,10 @@
                       </a>
                       {% endif %}
                     </div>
-                    <div class="col-4 text-center text-secondary">
+                    <div class="col-md-4 text-center text-secondary">
                       {{ site.data.menu[currIndex].title }}
                     </div>
-                    <div class="col-4 text-right">
+                    <div class="col-md-4 text-right">
                       {% if forloop.last == false %}
                       <a class="menu-item" href="{{ site.data.menu[nextIndex].url | relative_url }}" alt="{{ site.data.menu[nextIndex].title }}" title="{{ site.data.menu[nextIndex].title }}">
                         {{ site.data.menu[nextIndex].title }}
@@ -91,5 +96,10 @@
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+<script>
+  document.getElementById('toggleMenu').addEventListener('click', e => {
+    document.getElementById('menu').classList.toggle('d-none');
+  });
+</script>
 </body>
 </html>
